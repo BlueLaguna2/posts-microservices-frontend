@@ -1,0 +1,30 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "comments_@localhost",
+            "database": "comments",
+            "username": "root",
+            "password": "rootroot"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "posts_ms@localhost",
+            "database": "posts_ms",
+            "username": "root",
+            "password": "G0rtb0y11!"
+        }
+    ]
+}
